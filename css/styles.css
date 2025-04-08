@@ -68,6 +68,7 @@ a {
 .social-icons a {
     display: inline-block;
     margin: 0 10px;
+    font-size: 16px;
 }
 .social-icons img {
     width: 24px;

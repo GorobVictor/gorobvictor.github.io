@@ -43,7 +43,10 @@
                     "Implemented key features like matching logic, chat functionality, video calls, and notifications;",
                     "Focused on scalability and security of the server-side infrastructure."
                 ],
-                note: ''
+                note: '',
+                link: 'https://play.google.com/store/apps/details?id=com.smpldate.io',
+                icon: 'google-play.svg',
+                linkTitle: 'Google Play'
             }, {
                 image: "images/pitch59.jpg",
                 title: "Pitch59",
@@ -57,6 +60,9 @@
                     "Optimizing performance and enhancing the security of the application."
                 ],
                 note: "The platform is publicly available, user-friendly, and widely used by professionals across different industries.",
+                link: 'https://pitch59.com',
+                icon: 'web.svg',
+                linkTitle: 'pitch59.com'
             }
         ]
     },
@@ -103,7 +109,10 @@
                     "Реалізація логіки матчінгу, чатів, відеодзвінків та сповіщень;",
                     "Забезпечення масштабованості й безпеки серверної частини."
                 ],
-                note: ''
+                note: '',
+                link: 'https://play.google.com/store/apps/details?id=com.smpldate.io',
+                icon: 'google-play.svg',
+                linkTitle: 'Google Play'
             },
             {
                 image: "images/pitch59.jpg",
@@ -117,6 +126,9 @@
                     "оптимізацію продуктивності та безпеки додатку."
                 ],
                 note: "Проєкт активно використовується користувачами по всьому світу, має зручну реєстрацію та простий інтерфейс для запису та перегляду відео-презентацій.",
+                link: 'https://pitch59.com',
+                icon: 'web.svg',
+                linkTitle: 'pitch59.com'
             }
         ]
     }
@@ -127,6 +139,7 @@ const langKey = 'lang';
 function switchLanguage(lang) {
     localStorage.setItem(langKey, lang);
     const t = translations[lang];
+    document.getElementsByTagName('html').lang = lang;
     document.getElementById('header-title').textContent = t.headerTitle;
     document.getElementById('about-text').innerHTML = t.aboutText;
     document.getElementById('projects-title').textContent = t.projectsTitle;
@@ -147,6 +160,11 @@ function switchLanguage(lang) {
     <ul id="project-contrib-list">${p.contribList.map(item => `<li>${item}</li>`).join('')}
     </ul>
     <p id="project-note">${p.note}</p>
+    <div class="social-icons">
+        <a href="${p.link}" target="_blank" title="${p.title}">
+            <img src="images/${p.icon}" alt="${p.title}">${p.linkTitle}
+        </a>
+    </div>
         `;
         projects.appendChild(div);
     }
