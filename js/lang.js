@@ -2,29 +2,30 @@
     en: {
         headerTitle: "Viktor Horobchuk - Backend Developer",
         aboutText: `
-  <h1>.NET Developer with 6 Years of Experience — Building Scalable and Modern Solutions</h1>
+  <h1>.NET Developer | Backend Architect | Cloud & API Integration Expert</h1>
   <p>
-    I am a .NET Developer with over 6 years of experience in designing and implementing reliable, scalable, and high-performance backend systems. My expertise spans a wide range of technologies — from API development to payment integrations and cloud infrastructure.
+    I am a .NET Developer with over 6 years of experience in building reliable, scalable, and high-performance backend systems. I have a deep passion for leveraging modern technologies to solve complex problems and create impactful solutions for users.
   </p>
   <p>
-    My core stack includes <strong>C#, ASP.NET Core, Web API, and Entity Framework</strong>. I’m proficient in working with <strong>PostgreSQL, MSSQL, MySQL</strong>, and use <strong>Redis</strong> for efficient caching. I have hands-on experience with both <strong>AWS</strong> and <strong>Azure</strong> for cloud solutions.
+    My core expertise includes:
   </p>
-  <p>I’ve successfully integrated with:</p>
   <ul>
-    <li><strong>Payment systems:</strong> PayPal, CardConnect, Apple Pay API, Google Pay API, RevenueCat</li>
-    <li><strong>Media processing tools:</strong> FFmpeg, Mux</li>
-    <li><strong>Real-time communication & messaging:</strong> SignalR, AWS SNS, SES</li>
-    <li><strong>Google APIs:</strong> Drive, Photos, YouTube</li>
-    <li><strong>Other platforms:</strong> TikTok API, OpenAI</li>
+    <li><strong>Core Technologies:</strong> C#, ASP.NET Core, Web API, Entity Framework</li>
+    <li><strong>Database Management:</strong> PostgreSQL, MSSQL, MySQL, Redis</li>
+    <li><strong>Cloud Solutions:</strong> AWS (SES, SNS, S3, CloudWatch), Azure</li>
+    <li><strong>Payment Systems Integration:</strong> PayPal, CardConnect, Apple Pay API, Google Pay API, RevenueCat</li>
+    <li><strong>Real-Time Communication:</strong> SignalR, AWS SNS, SES</li>
+    <li><strong>Media Processing:</strong> FFmpeg, Mux</li>
+    <li><strong>Google & Social APIs:</strong> Google Drive, Google Photos, YouTube, TikTok API</li>
+    <li><strong>AI Integration:</strong> OpenAI</li>
+    <li><strong>Frontend Experience:</strong> WPF, Razor Pages, Flutter</li>
+    <li><strong>Best Practices:</strong> Unit testing, code quality, continuous integration</li>
   </ul>
   <p>
-    Monitoring and observability are covered via <strong>AWS CloudWatch</strong>, and I follow best practices in <strong>unit testing</strong> to ensure code quality and stability.
+    I have successfully delivered projects that integrate complex APIs, scale cloud infrastructure, and enhance user experiences. My goal is to always deliver reliable, scalable, and user-friendly software solutions. I am committed to continuous learning and keeping up-to-date with the latest technologies to deliver the best solutions possible.
   </p>
   <p>
-    On the frontend side, I have experience working with <strong>WPF, Razor Pages</strong>, and <strong>Flutter</strong>, enabling me to contribute to full-stack development when needed.
-  </p>
-  <p>
-    I’m passionate about building meaningful software products, collaborating with teams, and continually growing as an engineer. My goal is to deliver solutions that users love and businesses can rely on.
+    Feel free to reach out if you’re looking for a dedicated and experienced developer to help bring your next project to life!
   </p>
 `,
         projectsTitle: "Projects",
@@ -62,29 +63,30 @@
     ua: {
         headerTitle: "Viktor Horobchuk - Backend Developer",
         aboutText: `
-  <h1>.NET розробник з 6 років досвіду — створення масштабованих і сучасних рішень</h1>
+  <h1>.NET розробник | Бекенд архітектор | Експерт з хмарних рішень та інтеграції API</h1>
   <p>
-    Я — .NET розробник з понад 6 роками досвіду у створенні надійних, масштабованих та високопродуктивних бекенд-систем. Моя експертиза охоплює широкий спектр технологій — від розробки API до інтеграцій з платіжними системами та хмарною інфраструктурою.
+    Я — .NET розробник з понад 6 роками досвіду у створенні надійних, масштабованих та високопродуктивних бекенд-систем. Я захоплююся використанням сучасних технологій для вирішення складних задач і створення ефективних рішень.
   </p>
   <p>
-    Мій основний стек включає <strong>C#, ASP.NET Core, Web API, та Entity Framework</strong>. Я володію досвідом роботи з <strong>PostgreSQL, MSSQL, MySQL</strong> і використовую <strong>Redis</strong> для ефективного кешування. Також маю практичний досвід роботи з <strong>AWS</strong> та <strong>Azure</strong> для хмарних рішень.
+    Моя основна експертиза включає:
   </p>
-  <p>Я успішно інтегрувався з:</p>
   <ul>
-    <li><strong>Платіжними системами:</strong> PayPal, CardConnect, Apple Pay API, Google Pay API, RevenueCat</li>
-    <li><strong>Інструментами обробки медіа:</strong> FFmpeg, Mux</li>
-    <li><strong>Комунікацією в реальному часі та повідомленнями:</strong> SignalR, AWS SNS, SES</li>
-    <li><strong>Google API:</strong> Drive, Photos, YouTube</li>
-    <li><strong>Інші платформи:</strong> TikTok API, OpenAI</li>
+    <li><strong>Основні технології:</strong> C#, ASP.NET Core, Web API, Entity Framework</li>
+    <li><strong>Управління базами даних:</strong> PostgreSQL, MSSQL, MySQL, Redis</li>
+    <li><strong>Хмарні рішення:</strong> AWS (SES, SNS, S3, CloudWatch), Azure</li>
+    <li><strong>Інтеграція платіжних систем:</strong> PayPal, CardConnect, Apple Pay API, Google Pay API, RevenueCat</li>
+    <li><strong>Комунікація в реальному часі:</strong> SignalR, AWS SNS, SES</li>
+    <li><strong>Обробка медіа:</strong> FFmpeg, Mux</li>
+    <li><strong>Google та соціальні API:</strong> Google Drive, Google Photos, YouTube, TikTok API</li>
+    <li><strong>Інтеграція з AI:</strong> OpenAI</li>
+    <li><strong>Фронтенд досвід:</strong> WPF, Razor Pages, Flutter</li>
+    <li><strong>Найкращі практики:</strong> Unit-тестування, якість коду, безперервна інтеграція</li>
   </ul>
   <p>
-    Моніторинг та спостереження здійснюються через <strong>AWS CloudWatch</strong>, а також я дотримуюсь кращих практик у <strong>unit-тестуванні</strong> для забезпечення якості та стабільності коду.
+    Я успішно реалізував проекти, що включають інтеграцію складних API, масштабування хмарної інфраструктури та покращення користувацького досвіду через інноваційні рішення. Моя мета — завжди надавати надійне, масштабоване і зручне програмне забезпечення. Я також прагну до постійного навчання і слідкую за останніми технологічними тенденціями, щоб забезпечити найкращі рішення.
   </p>
   <p>
-    З боку фронтенду я маю досвід роботи з <strong>WPF, Razor Pages</strong> і <strong>Flutter</strong>, що дозволяє мені брати участь у повноцінному стековому розробленні, коли це необхідно.
-  </p>
-  <p>
-    Я пристрасно займаюсь створенням корисних програмних продуктів, співпрацюю з командами та постійно розвиваюся як інженер. Моя мета — створювати рішення, якими користувачі справді користуються і яким бізнеси можуть довіряти.
+    Зв’яжіться зі мною, якщо ви шукаєте відданого та досвідченого розробника, який допоможе втілити ваш наступний проект!
   </p>
 `,
         projectsTitle: "Мої проєкти",
@@ -120,10 +122,10 @@
     }
 };
 
-let currentLang = 'ua';
+const langKey = 'lang';
 
 function switchLanguage(lang) {
-    currentLang = lang;
+    localStorage.setItem(langKey, lang);
     const t = translations[lang];
     document.getElementById('header-title').textContent = t.headerTitle;
     document.getElementById('about-text').innerHTML = t.aboutText;
@@ -152,5 +154,5 @@ function switchLanguage(lang) {
     document.getElementById('contact-title').textContent = t.contactTitle;
 }
 
-window.onload = () => switchLanguage(currentLang);
+window.onload = () => switchLanguage(localStorage.getItem(langKey) ?? 'en');
 
