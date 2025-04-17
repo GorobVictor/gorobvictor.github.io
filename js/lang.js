@@ -32,11 +32,30 @@
         contactTitle: "Contact",
         projects: [
             {
+                image: "images/inkfusion.jpg",
+                title: "InkFusion",
+                description: "InkFusion is a mobile app for generating tattoo ideas using artificial intelligence. Users can choose a style, placement, and keywords to generate unique tattoo designs that inspire creative ink concepts.\n",
+                contribTitle: "My contributions included:",
+                contribList: [
+                    "Designed and implemented server architecture with .NET Core;",
+                    "Developed RESTful APIs for the mobile client;",
+                    "Integrated AI-based image generation;",
+                    "Managed the PostgreSQL database: storing profiles, generation history, and subscriptions;",
+                    "Integrated payment systems for subscriptions;",
+                    "Handled deployment and infrastructure;",
+                    "Ensured system scalability and security.",
+                ],
+                note: '',
+                link: 'https://play.google.com/store/apps/details?id=com.app.inkfusion',
+                icon: 'google-play.svg',
+                linkTitle: 'Google Play'
+            },
+            {
                 image: "images/smpl.jpg",
                 title: "SMPL – No Swipe Dating",
                 description:
                     "SMPL is a next-gen dating app designed to move away from the randomness of endless swiping. It offers users a limited number of daily matches, encouraging more thoughtful connections. The app also features video meetups and a robust moderation system.",
-                contribTitle: "My contributions:",
+                contribTitle: "My contributions included:",
                 contribList: [
                     "Developed and maintained the backend architecture using .NET Core;",
                     "Built APIs for seamless integration with mobile apps (Android/iOS);",
@@ -99,6 +118,25 @@
         contactTitle: "Контакти",
         projects: [
             {
+                image: "images/inkfusion.jpg",
+                title: "InkFusion",
+                description: "InkFusion — це мобільний додаток для генерації ідей татуювань за допомогою штучного інтелекту. Користувачі можуть обирати стиль, розташування, ключові слова, а потім отримувати згенеровані зображення татуювань, які надихають на створення унікального дизайну.",
+                contribTitle: "Мій вклад:",
+                contribList: [
+                    "Побудова серверної архітектури на .NET Core;",
+                    "Розробка REST API для мобільного клієнта;",
+                    "Генерація зображень на основі AI;",
+                    "Робота з базою даних (PostgreSQL): зберігання профілів, історії генерацій, підписок;",
+                    "Інтеграція платіжних систем для підписок;",
+                    "Розгортання;",
+                    "Забезпечення масштабованості та безпеки системи.",
+                ],
+                note: '',
+                link: 'https://play.google.com/store/apps/details?id=com.app.inkfusion',
+                icon: 'google-play.svg',
+                linkTitle: 'Google Play'
+            },
+            {
                 image: "images/smpl.jpg",
                 title: "SMPL – Знайомства без свайпів",
                 description: "SMPL — це мобільний додаток для знайомств нового покоління, який усуває випадковість свайпів і фокусується на змістовних зв’язках. Користувачі отримують обмежену кількість потенційних пар, що стимулює більш уважне ставлення до вибору. Додаток також підтримує відеозустрічі та сучасну систему модерації.",
@@ -118,12 +156,12 @@
                 image: "images/pitch59.jpg",
                 title: "Pitch59",
                 description: "Pitch59 — це платформа для створення інтерактивних відеовізиток, яка допомагає підприємцям і професіоналам ефективніше презентувати себе чи свою компанію. Сайт дозволяє завантажувати відео, додавати контактну інформацію, отримувати відгуки, та ділитися своїм «пітчем» через унікальні лінки або QR-коди.",
-                contribTitle: "Я відповідав за:",
+                contribTitle: "Мій вклад:",
                 contribList: [
-                    "реалізацію та підтримку бекенд-логіки за допомогою .NET Core;",
-                    "створення REST API для взаємодії фронтенду з базою даних;",
-                    "інтеграцію з відео- та email-сервісами;",
-                    "оптимізацію продуктивності та безпеки додатку."
+                    "Реалізація та підтримка бекенд-логіки за допомогою .NET Core;",
+                    "Створення REST API для взаємодії фронтенду з базою даних;",
+                    "Інтеграція з відео- та email-сервісами;",
+                    "Оптимізація продуктивності та безпеки додатку."
                 ],
                 note: "Проєкт активно використовується користувачами по всьому світу, має зручну реєстрацію та простий інтерфейс для запису та перегляду відео-презентацій.",
                 link: 'https://pitch59.com',
