@@ -59,7 +59,7 @@
                 contribList: [
                     "Developed and maintained the backend architecture using .NET Core;",
                     "Built APIs for seamless integration with mobile apps (Android/iOS);",
-                    "Implemented key features like matching logic, chat functionality, video calls, and notifications;",
+                    "Implemented key features like matching logic, chat functionality, and notifications;",
                     "Focused on scalability and security of the server-side infrastructure."
                 ],
                 note: '',
@@ -144,7 +144,7 @@
                 contribList: [
                     "Розробка та підтримка бекенд-архітектури на .NET Core;",
                     "Створення API для мобільного клієнта (Android/iOS);",
-                    "Реалізація логіки матчінгу, чатів, відеодзвінків та сповіщень;",
+                    "Реалізація логіки матчінгу, чатів та сповіщень;",
                     "Забезпечення масштабованості й безпеки серверної частини."
                 ],
                 note: '',
